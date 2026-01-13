@@ -1,0 +1,30 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/BelloBright2
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/bello-arafat/
+    - icon: github
+      text: Github
+      href: https://github.com/bbarafat
+
+---
+
+Hi — I’m Bright Arafat Bello.
+
+I’m a data scientist with a strong interest in quantitative finance, actuarial science, and applied machine learning. I enjoy working at the intersection of theory and practice: building models, testing ideas rigorously, and turning abstract concepts into tools that actually work.
+
+My interests are wide-ranging. On the technical side, I spend a lot of time thinking about data analysis, statistical modeling, machine learning, time series, and reproducible research. I’m particularly interested in how these tools are used in finance and decision-making contexts. On the non-technical side, I’m curious about learning processes, problem-solving, and the small habits and ideas that compound over time.
+
+This blog is a space to document that curiosity.
+
+You’ll find posts that range from technical write-ups and project notes to reflections on learning, experiments I’m running, and topics I find interesting at any given moment. Some posts will be structured and analytical; others may be exploratory or informal. The common thread is that they reflect what I’m working on, thinking about, or trying to understand better.
+
+Think of this as a living notebook — a place where ideas are tested, refined, and shared.
+
