@@ -152,7 +152,7 @@ When we get a new car, we don't park it safely in our garage at home. We take it
 After the glorious workflow above is complete, we make it available for everyone to use, also known as deploying the model. There are various ways to do this which I won't go into, but this is typically the final stage in the process.
 
 
-## Conclusion
+# Conclusion
 
 And just like that, the machine learning process is complete. Easy enough to understand right?
 
