@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi — I’m Bright Arafat Bello.\nI’m a data scientist with a strong interest in quantitative finance, actuarial science, and applied machine learning. I enjoy working at the intersection of theory and practice: building models, testing ideas rigorously, and turning abstract concepts into tools that actually work.\nMy interests are wide-ranging. On the technical side, I spend a lot of time thinking about data analysis, statistical modeling, machine learning, time series, and reproducible research. I’m particularly interested in how these tools are used in finance and decision-making contexts. On the non-technical side, I’m curious about learning processes, problem-solving, and the small habits and ideas that compound over time.\nThis blog is a space to document that curiosity.\nYou’ll find posts that range from technical write-ups and project notes to reflections on learning, experiments I’m running, and topics I find interesting at any given moment. Some posts will be structured and analytical; others may be exploratory or informal. The common thread is that they reflect what I’m working on, thinking about, or trying to understand better.\nThink of this as a living notebook — a place where ideas are tested, refined, and shared."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Machine Learning Isn’t Magic: Why It’s Easier Than You Think",
+    "section": "",
+    "text": "Photo by Kevin Ku on Unsplash\n\n\nA lot of people in the world today have heard about machine learning, most have heard about AI, and everyone has interacted with machine learning in one way or the other. It is sometimes referred to as AI’s stepchild, AI’s lesser known twin and even AI’s second banana. Despite its popularity, most people do not know exactly what it is. Some may think its some kind of wizardry or witchcraft and a lot of people will assume its a field too complex to comprehend. Today, we will unmask this creature and expose its secrets for all to see. Lets start from the beginning, what is machine learning? Simply put, machine learning refers to when machines (computers) learn stuff (I’m only slightly joking). Lets go back in time a little bit. You see what happened in 1943 past was that neuroscientist’s Walter Pitts and Warren McCulloch devised a mathematical model of a neural network to create algorithms that mimic human thought processes. Other pioneers like Alan Turing came to the fore in the 1950’s and 1960’s and bit by bit the AI and machine learning landscape was crafted. This is essentially what machine learning seeks to do. Formally, “Machine learning is the subset of artificial intelligence (AI) focused on algorithms that can “learn” the patterns of training data and, subsequently, make accurate inferences about new data. This pattern recognition ability enables machine learning models to make decisions or predictions without explicit, hard-coded instructions.”. This is at its heart what machine learning is. How does it do this though? In comes statistics (Yes you read that right, its the same statistics you didn’t like in high school). Machine learning can be thought of as the master statistician. it takes data, a lot of data, and through 6 complex training processes and strict protocols, learns the underlying patterns of the dataset and then uses this knowledge to build a model and make predictions or clusters. All of this involves statistical concepts, calculus and linear algebra. Machine learning comes in three main flavors; Supervised learning Supervised learning is a machine learning flavor that works with labeled data. Think of a table where each column represents features, and one column is our target variable of interest. An example would be a data of houses where each column is an attribute of the house, such as number of bedrooms, square footage, etc, and the target variable is price, our variable of interest. Our model would learn patterns from the attributes in order to predict the price of a house given certain attributes. It is called supervised because it has clear correct answers to guide its learning. In supervised learning, we either aim to predict continuous values like prices (regression), or to classify (predict whether something is an apple or banana based on features). Unsupervised learning This is a machine learning flavor that works with unlabeled data. Unlike its supervised coun- terpart, this version does not have clearly correct answers to work with. Given a dataset, it finds hidden patterns and structures in unlabeled data without human guidance. It typically clusters the data into blocks based on patterns it discovers and believes to be important Reinforcement learning This is a type of machine learning where an agent (a bot/machine) learns to make decisions by interacting with an environment, taking actions, and receiving rewards or penalties (feedback) to discover an optimal strategy (policy) for maximizing cumulative rewards over time, much like trial-and-error learning. It excels at complex problems like game playing (Chess, Go) or robotics, training systems to learn from experience without explicit program- ming, unlike supervised learning which uses labeled data. 7 So far so good right? Now lets see how the learning is actually done; Raw data is gathered and cleaned, usually referred to as preprocessing, then the features are examined and re-engineered if need be. This is called feature engineering. This step is 8 sometimes lumped in with preprocessing. After all this glorious work is done, we do the shiny stuff, choose a model. Depending on the task at hand and the data, we make informed decisions about our model using our knowledge of statistics. We train the model, this involves a process of trial and error, until the computer learns enough about our data to make good predictions. Once the model is done, we do some diagnosis and finally make it available for everyone to use, also known as deploying the model. And just like that, the machine learning process is complete. Easy enough to understand right? As with all skills, in order to actually be good at machine learning, you need to get your hands dirty. This will involve more detailed knowledge than mentioned in this write up. This write up shows that on a high-level, machine learning is conceptually very easy to understand. Now when your granny asks you, you can explain to her what the fuss is all about."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Open-Interests",
+    "section": "",
+    "text": "Machine Learning Isn’t Magic: Why It’s Easier Than You Think\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 13, 2026\n\n\nBright A. Bello\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html",
+    "href": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html",
+    "title": "Machine Learning Isn’t Magic: Why It’s Easier Than You Think",
+    "section": "",
+    "text": "Photo by Kevin Ku on Unsplash"
+  },
+  {
+    "objectID": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#definition",
+    "href": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#definition",
+    "title": "Machine Learning Isn’t Magic: Why It’s Easier Than You Think",
+    "section": "Definition",
+    "text": "Definition\nFormally, and boringly;\n“Machine learning is the subset of artificial intelligence (AI) focused on algorithms that can “learn” the patterns of training data and, subsequently, make accurate inferences about new data. This pattern recognition ability enables machine learning models to make decisions or predictions without explicit, hard-coded instructions.”.\nSimply put however, machine learning refers to when machines (computers) learn stuff (I’m only slightly joking)."
+  },
+  {
+    "objectID": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#brief-history",
+    "href": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#brief-history",
+    "title": "Machine Learning Isn’t Magic: Why It’s Easier Than You Think",
+    "section": "Brief History",
+    "text": "Brief History\nLets start from the beginning, what is machine learning and where did it come from?\nLets go back in time a little bit. You see, what happened in 1943 was that neuroscientist’s Walter Pitts and Warren McCulloch devised a mathematical model of a neural network to create algorithms that mimic human thought processes.\nOther pioneers like Alan Turing came to the fore in the 1950’s and 1960’s and bit by bit the AI and machine learning landscape was crafted.\nYou remember the definition from the section above? This is at its heart what machine learning is. How does it do this though? In comes statistics (Yes you read that right, its the same statistics you didn’t like in high school).\nMachine learning can be thought of as the master statistician. it takes data, a lot of data, and through complex training processes and strict protocols, learns the underlying patterns of the dataset, and then uses this knowledge to build a model and make predictions or clustering (Don’t panic, we’ll come to this later) depending on the flavor of model we are developing. All of this involves statistical concepts, calculus and linear algebra."
+  },
+  {
+    "objectID": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#supervised-learning",
+    "href": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#supervised-learning",
+    "title": "Machine Learning Isn’t Magic: Why It’s Easier Than You Think",
+    "section": "Supervised Learning",
+    "text": "Supervised Learning\nSupervised learning is a machine learning flavor that works with labeled data.\nThink of a table where each column represents features, and one column is our target variable of interest. An example would be a data of houses where each column is an attribute of the house, such as number of bedrooms, square footage, etc, and the target variable is price, our variable of interest.\nOur model would learn patterns from the attributes in order to predict the price of a house given certain characteristics. It is called supervised because it has clear correct answers to guide its learning.\nIn supervised learning, we either aim to predict continuous values like prices (regression), or to classify (predict whether something is an apple or banana based on features)."
+  },
+  {
+    "objectID": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#unsupervised-learning",
+    "href": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#unsupervised-learning",
+    "title": "Machine Learning Isn’t Magic: Why It’s Easier Than You Think",
+    "section": "Unsupervised Learning",
+    "text": "Unsupervised Learning\nThis is a machine learning flavor that works with unlabeled data unlike its supervised counterpart.\nThis version does not have clearly correct labelled answers to work with. Given a dataset, it finds hidden patterns and structures in unlabeled data without human guidance. It typically clusters the data into blocks based on patterns it discovers and believes to be important."
+  },
+  {
+    "objectID": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#reinforcement-learning",
+    "href": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#reinforcement-learning",
+    "title": "Machine Learning Isn’t Magic: Why It’s Easier Than You Think",
+    "section": "Reinforcement Learning",
+    "text": "Reinforcement Learning\nThis is a type of machine learning flavor where an agent (a bot/machine) learns to make decisions by interacting with an environment, taking actions, and receiving rewards or penalties (feedback) to discover an optimal strategy (policy) for maximizing cumulative rewards over time. Much like trial-and-error learning.\nIt excels at complex problems like game playing (Chess, Go) or robotics, training systems to learn from experience without explicit programming, unlike supervised learning which uses labeled data.\nWhew, that was a lot of words. What does it mean though?\nLet’s look at an example. Think about teaching a bot how to play chess. Your environment is the chessboard that the bot has to learn to navigate. We need to teach the bot the basic rules, and some strategies.\nFor each move the bot gets right, we reward it, and punish it for wrong moves. When it receives a reward or punishment, it updates the policy (In this case, this refers to the best moves for each position, or what to avoid).\nOver time, the bot learns context, and is able to decide what the best move for each situation is based on the pieces on the board, and the opponents’ last move."
+  },
+  {
+    "objectID": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#data-gathering-and-cleaning-preprocessing",
+    "href": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#data-gathering-and-cleaning-preprocessing",
+    "title": "Machine Learning Isn’t Magic: Why It’s Easier Than You Think",
+    "section": "Data Gathering And Cleaning (Preprocessing)",
+    "text": "Data Gathering And Cleaning (Preprocessing)\nRaw data is gathered either from first hand sources (surveys etc) or second hand datasets that are publicly availabe.\nThis data is cleaned and made ready for modelling.\nCleaning data is usually the first stage of the modelling process and can be quite intense. It requires knowledge of the data and its collection process as well as an understanding of the data available in each column (feature).\nThis cleaning could involve handling null or incorrect values, outliers and distributions of each feature, etc.\nThis is usually referred to as preprocessing."
+  },
+  {
+    "objectID": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#feature-engineering-and-exploratory-data-analysis-eda",
+    "href": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#feature-engineering-and-exploratory-data-analysis-eda",
+    "title": "Machine Learning Isn’t Magic: Why It’s Easier Than You Think",
+    "section": "Feature Engineering And Exploratory Data Analysis (EDA)",
+    "text": "Feature Engineering And Exploratory Data Analysis (EDA)\nAfter the preprocessing is complete, the features are examined and re-engineered if need be. Re-engineering in this context refers to creating new features based on the features we already have.\nExamining (EDA) involves the creation of charts and summary statistics to investigate probable patterns and statistical distributions of the data and its features.\nThis stage typically requires some domain knowledge on the topic being modelled, as well as knowledge of statistics.\nFeature Engineering happens after the EDA stage is complete. The information we gather from examining the data, along with any domain knowledge we may have, will inform our choice of transformation and new feature creation.\nIn some Machine Learning Literature, this step is sometimes lumped in with preprocessing."
+  },
+  {
+    "objectID": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#model-selection",
+    "href": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#model-selection",
+    "title": "Machine Learning Isn’t Magic: Why It’s Easier Than You Think",
+    "section": "Model Selection",
+    "text": "Model Selection\nAfter all this glorious work is done, we do the shiny stuff. We choose a model.\nDepending on the task at hand and the data we have, we make informed decisions about our model using our knowledge of statistics.\nThere is a wide range of models to choose from, including Linear Regression, Logistic regression, XGBoost, etc.\nWe usually have a few models we want to try out to see which one fits the data best. We choose these models, and using a cross validation strategy (We basically select different subsets of the data and train the model on all the subsets), we train all the selected models, then we choose the best performing model from among them all.\nWe can then perform some diagnosis to investigate how well our model is performing."
+  },
+  {
+    "objectID": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#deploying",
+    "href": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#deploying",
+    "title": "Machine Learning Isn’t Magic: Why It’s Easier Than You Think",
+    "section": "Deploying",
+    "text": "Deploying\nWhen we get a new car, we don’t park it safely in our garage at home. We take it out for the whole neighborhood to look at. This is the same concept we employ in machine learning.\nAfter the glorious workflow above is complete, we make it available for everyone to use, also known as deploying the model. There are various ways to do this which I won’t go into, but this is typically the final stage in the process."
+  },
+  {
+    "objectID": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#conclusion",
+    "href": "posts/Machine Learning Isn't Magic: Why It's Easier Than You Think/index.html#conclusion",
+    "title": "Machine Learning Isn’t Magic: Why It’s Easier Than You Think",
+    "section": "Conclusion",
+    "text": "Conclusion\nAnd just like that, the machine learning process is complete. Easy enough to understand right?\nAs with all skills, in order to actually be good at machine learning, you need to get your hands dirty.\nBuilding the models themselves will involve more detailed learning and domain knowledge than mentioned in this write up. This write up is meant to show that on a high-level, machine learning is conceptually very easy to understand.\nNow when your granny asks you, you can explain to her what the fuss is all about."
+  }
+]

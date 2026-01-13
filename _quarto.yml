@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Open-Interests"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/bbarafat
+      - icon: twitter
+        href: https://x.com/BelloBright2
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+
